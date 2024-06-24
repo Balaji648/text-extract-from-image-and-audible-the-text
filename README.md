@@ -1,0 +1,1 @@
+# text-extract-from-image-and-audible-the-text
